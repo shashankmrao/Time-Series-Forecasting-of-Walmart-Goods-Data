@@ -1,0 +1,2 @@
+# Time-Series-Forecasting-of-Walmart-Goods-Data
+Estimating unit sales of 30490 Walmart retail items across ten stores in California, Texas and Wyoming. Used ARIMA, SARIMAX, Hot Linear, Exponential Smoothing, Unobserved Components Model, Prophet, VARMAX, Dynamic Factor and Functional deep learning models containing Long Short Term Memory Units and Gated Recurrent Units to forecast 300 days of item sales.
